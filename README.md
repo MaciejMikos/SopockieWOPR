@@ -34,3 +34,7 @@ Dodaj Podpis do Innej Poczty
 8. Wejdź w ustawienia → Zobacz wszystkie ↓
 9. Zjedź do "Stopka/Podpis:" → "Dodaj Nowy" → Nadaj nazwę ↓
 10. Wklej skopiowany podpis w pole, zapisz.
+
+---
+Poprawne wysyłanie maila ze stopką DOMENA.PL → https://imgur.com/a/ObxhCLR 
+---
