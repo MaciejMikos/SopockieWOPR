@@ -3,7 +3,7 @@ Poradnik Tworzenia Stopki
 [W] Wersja Graficzna:
 [V] Wersja Video:
 
-1. Skopiuj powyższy kod,
+1. Skopiuj powyższy kod (Kliknij w "stopka mail" - zaznacz wszystko, lub kliknij w przycisk dwóch kwadratów (Copy raw file) obok przycisku "Raw",
 2. Zaloguj się na swoje konto poczta.sopockiewopr.pl
 3. Przejdź w zakładke ustawienia (settings), następnie Identities i wybierz mail: imie.nazwisko@sopockiewopr.pl 
 4. Przejdź do sekcji "Signature" → kliknij w ikonkę Krajobrazu (HTML), następnie ukaże Ci się pasek. Wybierz jego ostatnią pozycję: <> (Source Code) 
