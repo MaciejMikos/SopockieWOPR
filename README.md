@@ -2,7 +2,7 @@ Poradnik dla DOMENA.PL
 ---
 [W] Wersja Graficzna:
 [V] Wersja Video:
----
+
 1. Skopiuj powyższy kod,
 2. Zaloguj się na swoje konto poczta.sopockiewopr.pl
 3. Przejdź w zakładke ustawienia (settings), następnie Identities i wybierz mail: imie.nazwisko@sopockiewopr.pl 
