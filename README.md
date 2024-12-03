@@ -1,4 +1,4 @@
-Poradnik dla DOMENA.PL
+Poradnik Tworzenia Stopki
 ---
 [W] Wersja Graficzna:
 [V] Wersja Video:
@@ -19,3 +19,18 @@ Poradnik dla DOMENA.PL
       - URL: [!] Nie usuwaj "mailto:" [!] wpisz jedynie adres e-mail po "mailto:"
       - Text to display: Wpisz adres e-mail
       - Zapisz
+
+---
+Dodaj Podpis do Innej Poczty 
+---
+
+1. Jeżeli chcesz dodać podpis do innej poczty, wykonaj najpierw powyższy krok.
+2. Zaloguj się na swoje konto poczta.sopockiewopr.pl
+3. Przejdź w zakładke ustawienia (settings), następnie Identities i wybierz mail: imie.nazwisko@sopockiewopr.pl 
+4. Przejdź do sekcji "Signature"
+5. Dokładnie zaznacz cały obszar białego pola, możesz to również zrobic klikając w dowolne miejsce pliku myszką, i kilkając CTRL + A
+6. Skopiuj zawartość (CTRL + C)
+7. Przejdź do poczty gmail.com
+8. Wejdź w ustawienia → Zobacz wszystkie ↓
+9. Zjedź do "Stopka/Podpis:" → "Dodaj Nowy" → Nadaj nazwę ↓
+10. Wklej skopiowany podpis w pole, zapisz.
